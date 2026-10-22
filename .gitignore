@@ -1,0 +1,13 @@
+# build output
+build/
+dist/
+
+# JUCE (linked separately)
+JUCE/
+
+# editor / OS
+.vs/
+*.user
+*.suo
+Thumbs.db
+.DS_Store
